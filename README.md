@@ -1,2 +1,0 @@
-# backup
-Back-up scripts
