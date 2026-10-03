@@ -7,5 +7,5 @@ SOURCE="/home/and/Videos"
 rsync -rltv --info=progress2 "$SOURCE/" "$SCRIPT_DIR/"
 
 echo
-echo "Documents contents copied successfully to:"
+echo "Files copied successfully to:"
 echo "$SCRIPT_DIR"
