@@ -24,11 +24,11 @@ REPOS=(
     "bibliany"
     "sebomenostelas"
     "kali"
-    "win"
     "audio"
     "modico"
     "backup"
     "nixos"
+    "iems"
 )
 
 GITHUB_USER="andguerreiro"
