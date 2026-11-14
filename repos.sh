@@ -29,6 +29,7 @@ REPOS=(
     "backup"
     "nixos"
     "iems"
+    "bardfall"
 )
 
 GITHUB_USER="andguerreiro"
