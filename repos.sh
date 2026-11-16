@@ -30,6 +30,7 @@ REPOS=(
     "nixos"
     "iems"
     "bardfall"
+    "bardsgame"
 )
 
 GITHUB_USER="andguerreiro"
